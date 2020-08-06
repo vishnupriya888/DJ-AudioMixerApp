@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "dj-audio-mixer",
+    "slug": "snack-6a77e606-533a-4cb1-97c3-9462ad9bafca",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.priya"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
