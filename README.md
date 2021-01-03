@@ -20,8 +20,7 @@ For More Detailed video watch :
 ##### Output Screen :
 <br/>
 
-<img src ="https://user-images.githubusercontent.com/59869563/103479202-200bca00-4df2-11eb-9a41-4a421b76e36b.png" 
-width="439px" height="806px"><img src ="https://user-images.githubusercontent.com/59869563/103479218-3154d680-4df2-11eb-9fa3-02630fc6f4ff.png" 
+<img src ="https://user-images.githubusercontent.com/59869563/89536214-30088900-d815-11ea-8891-29933be8bfc7.png" 
 width="439px" height="806px">
 
 
